@@ -1,12 +1,23 @@
 {
   "name": "hapi-navigation",
   "description": "Navigation helpers for Hapi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "repository": "https://github.com/lemoncreative/hapi-navigation",
   "author": "James Wyse <james@jameswyse.net>",
   "license": "MIT",
   "readmeFilename": "README.md",
+  "tags": [
+    "hapi",
+    "plugin",
+    "nav",
+    "navigation",
+    "paths",
+    "routes",
+    "active",
+    "current",
+    "nails"
+  ],
   "dependencies": {
   },
   "peerDependencies": {
