@@ -1,7 +1,7 @@
 hapi-navigation
 ===============
 
-A Hapi plugin to help build navigation in your views.
+Navigation helpers for Hapi
 
 WIP - Documentation to follow!
 
