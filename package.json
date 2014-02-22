@@ -1,0 +1,15 @@
+{
+  "name": "hapi-navigation",
+  "description": "Navigation helpers for Hapi",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "repository": "https://github.com/lemoncreative/hapi-navigation",
+  "author": "James Wyse <james@jameswyse.net>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "hapi": "2.x.x"
+  }
+}
