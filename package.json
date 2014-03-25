@@ -1,7 +1,7 @@
 {
   "name": "hapi-navigation",
   "description": "Navigation helpers for Hapi",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "main": "lib/index.js",
   "repository": "https://github.com/lemoncreative/hapi-navigation",
   "author": "James Wyse <james@jameswyse.net>",
@@ -20,8 +20,5 @@
   ],
   "dependencies": {
     "useragent": "2.x.x"
-  },
-  "peerDependencies": {
-    "hapi": "2.x.x"
   }
 }
